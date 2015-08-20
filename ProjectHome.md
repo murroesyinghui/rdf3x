@@ -1,0 +1,1 @@
+RDF-3X is the experimental RDF storage and retrieval system described in _RDF-3X: a RISC-style Engine for RDF_ by Thomas Neumann and Gerhard Weikum in JDMR (formely Proc. VLDB) 2008. The source code is available for non-commercial usage.
